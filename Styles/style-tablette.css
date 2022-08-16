@@ -1,0 +1,101 @@
+@media screen and (max-width: 992px) 
+
+{    
+    /*** filtre*/
+    .filtre
+    {
+        flex-direction: column; 
+        align-items: flex-start;
+    }
+
+    .filtre-economiques-familiales
+    {
+        margin-bottom: 10px;
+    }
+
+    .filtre-romantiques-animaux
+    {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .filtre-bloc-romantiques
+    {
+        margin-bottom: 10px;
+    }  
+
+    /**hebergement*/
+    #hebergement
+    {
+        flex-direction: column;
+    }
+
+    #bloc-gris-1
+    {
+        order: 1;
+        height: 100%;
+        margin-top: 30px;
+    }
+
+    #bloc-gris-2
+    {
+        width: 50%;
+    }
+
+    #hotel-le-soleil-du-matin, #au-coeur-de-leau-chambres-dhotes, #hotel-tout-bleu-et-blanc
+    {
+        height: 130px;
+        margin: 10px;
+    }
+
+    /** activité*/
+
+    #viex-port img
+    {
+        height: 400px; 
+    }
+
+    #promegues img
+    {
+        height: 200px;
+    }
+
+    #friout img
+    {
+        height: 100px;
+    }
+
+    #parc-national-calanques img
+    {
+        height: 400px;        
+    }
+
+    #notre-dames img
+    {
+        height: 160px;
+    }
+
+    #longchamp img
+    {
+        height: 160px;
+    }
+
+    #promegues-friout, #notre-dames-longchamp
+    {
+        height: 430px; 
+    }
+
+    #text-vieux-port, #text-promegues, #text-friout, #text-parc-national-calanques, #text-notre-dames, #text-parc-longchamp 
+    {
+        font-size: 75% ;
+    }
+    
+    /**footer*/
+    footer div
+    {
+        margin-left: 30px;
+        padding-right: 20px;
+    }
+
+
+}
