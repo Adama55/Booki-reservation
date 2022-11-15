@@ -4,7 +4,7 @@
 
 👤 &nbsp; **FOFANA Adama**
 
-* Conatct : [@Emai]( adamadev55@gmail.com)
+* Conatct : adamadev55@gmail.com
 
 
 ***
