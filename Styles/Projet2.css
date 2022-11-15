@@ -5,13 +5,16 @@
 
 /*
 Coleur fréquemment utilisées
+
+B78A22
+anciene couleur #0065fc
 */
 
-.color-bleu{color: #0065fc;}
+.color-bleu{color: #B78A22;}
 .color-bleu-claire {color:#DEEBFF;}
 .color-gris{color: #F2F2F2;}
 
-.back-bleu{background-color: #0065fc;}
+.back-bleu{background-color: #B78A22;}
 .back-bleu-claire {background-color:#DEEBFF;}
 .back-gris{background-color: #F2F2F2;}
 
@@ -65,13 +68,13 @@ nav a
 
 nav div:hover
 {
-    color: #0065fc;
-    border-top: 2px solid #0065fc;
+    color: #B78A22;
+    border-top: 2px solid #B78A22;
 }
 
 nav a:hover
 {
-    color: #0065fc;  
+    color: #B78A22;  
 }
 
 /**-------------- Main section sousEntete -----------------*/
@@ -124,7 +127,7 @@ form
 
 #recherche div input
 {
-    border: 1px solid #0065fc;
+    border: 1px solid #B78A22;
     color: white;
     border-radius: 0 10px 10px 0;
     font-size: 100%;
@@ -169,7 +172,7 @@ form
 .filtre-bloc-economiques:hover, .filtre-bloc-familiales:hover, .filtre-bloc-romantiques:hover, .filtre-bloc-animaux:hover
 {
    
-    background-color: #0065fc;
+    background-color: #B78A22;
     color: white;
     cursor: pointer;
     font-size: 120%;
